@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 // Conditional statements and Data types Practical task 
 
+=======
+>>>>>>> 0d61300968b46f2619507278333adbb3aeb92eaf
 // 1.Perform addition of various types (string + boolean, string + number, number + boolean)
 
 let a = 'Hello';
